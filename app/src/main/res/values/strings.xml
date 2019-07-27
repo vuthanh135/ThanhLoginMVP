@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">LoginWithMVP</string>
+
+    <string name="txtmanucian">Manchester United in my heart</string>
+    <string name="txtdate">13/05/1998</string>
+    <string name="password">Password</string>
+    <string name="username">UserName</string>
+    <string name="login">Login</string>
+    <string name="Remember_account">Remember account</string>
+
+    <string name="change_password_error">Enter new password</string>
+    <string name="change_user_error">Enter new username</string>
+</resources>
